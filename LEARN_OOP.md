@@ -193,7 +193,7 @@ No curly braces. No body. It's a homework assignment for every subclass: "You mu
 > - **Abstract class** — "You *are* a kind of this, and here's some ready-made code you inherit." (`Dog extends Animal`)  
 > - **Interface** — "You *can do* this job; I won't give you any shared fields/constructor here." (`PayPal implements Payment`)  
 >
-> In beginner programs, use an abstract class when kids share real code and a family tree. Use an interface when different unrelated things just need the same method name.
+
 
 ---
 

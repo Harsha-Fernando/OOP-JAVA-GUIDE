@@ -2,7 +2,7 @@ package com.mycompany.java_oop;
 
 /**
  * An *abstract* class: a blueprint that is intentionally unfinished.
- * You can share real code here (eat), and force kids to fill in the rest (makeSound).
+ * You can share real code here (eat), and force subclasses to fill in the rest (makeSound).
  * You cannot write: new Animal("...") — only something more specific, like Dog.
  * See LEARN_OOP.md — sections 3 and 4.
  */
